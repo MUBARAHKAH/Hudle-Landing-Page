@@ -387,10 +387,26 @@ footer .instagram-icon::before{
   main .ready p{
     font-size: 15px;
   }
+  
+  footer .copyright{
+    font-size: 12px;
+  }
+
+  footer .facebook-icon::before{
+    content: none;
+  }
+
+  footer .twitter-icon::before{
+    content: none;
+  }
+
+  footer .instagram-icon::before{
+    content: none;
+  }
 
 }
 
-@media (max-width: 450px){
+/*@media (max-width: 450px){
   header .free-link{
     padding: 5px 15px;
   }
