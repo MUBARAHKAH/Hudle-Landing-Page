@@ -406,7 +406,7 @@ footer .instagram-icon::before{
 
 }
 
-/*@media (max-width: 450px){
+@media (max-width: 450px){
   header .free-link{
     padding: 5px 15px;
   }
